@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_pt_purple">x_snc_pt_purple</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-05 19:20:22</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>bda88f8a4f37120021d028201310c7ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PT</sys_name>
+        <sys_package display_value="pt" source="x_snc_pt">44a8478a4f37120021d028201310c737</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="pt">44a8478a4f37120021d028201310c737</sys_scope>
+        <sys_update_name>sys_number_bda88f8a4f37120021d028201310c7ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-05 19:20:22</sys_updated_on>
+    </sys_number>
+</record_update>
